@@ -31,7 +31,7 @@
 
 Создаю  новый файл с именем ip\_to\_binary.bash
 
-touch ip\_to\_binary.bash
+"touch ip\_to\_binary.bash"
 
 Использую команду ls, чтобы проверить, создан ли файл или нет.
 
@@ -39,7 +39,7 @@ touch ip\_to\_binary.bash
 
 2.  Открываю созданный файл ip\_to\_binary.bash для редактирования. Стандартный текстовый редактор в Ubuntu это gedit. Выполню в терминале
 
- gedit ip\_to\_binary.bash
+ "gedit ip\_to\_binary.bash"
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdufOf-phKOfPdJSvuc2RyeCS6iav3j9PCc6XlnMGfk4Njz2rpiDjaHCFvj7USlRUaO3mSFUD5rdfZaZoTYFshCZ4kzspiE32t1T9Kxt8Z7ux-SfeuQ5PNXoVvF9SLds96WvQaPzeYGcWhYYFRIPHb__zA?key=xnfKaIuyDKowxBhOp7dZog)
 
@@ -61,7 +61,7 @@ touch ip\_to\_binary.bash
 -   Пользовательский ввод и проверка: Запрашивает у пользователя IP-адрес. Вызывает функцию validate\_ip для проверки допустимости ввода. Если ввод недопустим, выводит сообщение об ошибке и завершает работу с кодом состояния 1.
 -   Вызывает функцию ip\_to\_binary для преобразования допустимого IP-адреса в двоичный формат. Выводит полученный двоичный адрес.
 
-4.  Использую  команду chmod +x ip\_to\_binary.bash, чтобы сделать исполняемый файл. Затем я запускаю код: ./ip\_to\_binary.bash
+4.  Использую  команду "chmod +x ip\_to\_binary.bash", чтобы сделать исполняемый файл. Затем я запускаю код: "./ip\_to\_binary.bash"
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0jf2H7hLfznmCl5B8ht0UdBtVULtWD3ffJ5jt46NV6tppW8zjm0zX3PLyQaettEY_1nQF4dZ5-LYiipUCSzJF4EeJGVjJQPEtEI-DvHHELY4Y3-2GyJJWfkw2EI_Q5q-n8aCTuSn6kfMUB8taXKMqjobV?key=xnfKaIuyDKowxBhOp7dZog)
 
