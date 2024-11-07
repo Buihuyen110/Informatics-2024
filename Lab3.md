@@ -61,7 +61,7 @@
 
 использую command:
 
-       sudo iptables -A OUTPUT -d <IP-адрес машины B>
+       sudo iptables -A OUTPUT -d <IP-адрес машины B> -j DROP
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfBTknWUtcv5cC-QLG5cSzCwNAiRf81gJYOOu0Xbh62CJliljo3xbcqRh4VDQcIsPtTsToTU_y5hZxhGupjt822X8tQoRhqpoLLbTOBBF3TMGYcANxpaobDgv38PaNZOQLMePdDYjAviHFNgX7KjLafiRDX?key=-Izx9FaWW9Tn5ziZQGDIQaMG)
 
