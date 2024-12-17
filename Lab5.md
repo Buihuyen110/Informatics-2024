@@ -23,15 +23,15 @@
                                                                    2024 г
 
 
-## Задачи 
+# Задачи 
 1. Введение
 2. Работа с ветками
 3. Работа с удаленным репозиторием
 4. Моделирование конфликта
 5. Разрешение конфликта
 
-## Решение
-### 1. Введение
+# Решение
+## 1. Введение
 1. Создание репозитория на GitHub: 
     Создала новый репозиторий с именем practices
 2. Клонирование репозитория:
@@ -85,7 +85,7 @@ git push origin main
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdDVu-im02cAFTSXj5Vbe7ofn-PIiXA4r1_05g5Fmm1cRPQ4EyIXeUqvI3dA3bzXCnZOkD_K3SabZDbAOCxtAzKuSO-kXL_gY9l0pndmXhbWl3Of6dmuLFiiqFJP5MRCCk05GkYcA?key=E5dHXVUTzknfca2XYtK_swaA)**
 
-### 2. Работа с ветками
+## 2. Работа с ветками
 
 1. Создала новый текстовый файл с базовой структурой книги:
 ```
@@ -128,7 +128,7 @@ git push origin feature-login
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeuUaFTed73stSP0AE_LGSGsX4qrN99ot7lx9BSjsExjI64jG88oMUzZLkYhmgN91JIjHawa2gLUFa0vQrvlXgo1QbCQ1JGuHdOqFeUj3Q5i3PB5YpPsPYG8q-u6V3MGJeb-c_DYA?key=E5dHXVUTzknfca2XYtK_swaA)**
 
-### 3. Работа с удаленным репозиторием
+## 3. Работа с удаленным репозиторием
 
 1. Переключилась на основную ветку (main) и внесила изменения:
 
@@ -237,7 +237,7 @@ git push origin main
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXejUu9FnjgM8VVzkJRKKDKdqQgddMhACGTCrgnzN9q14YBFXpwx-MExQDecc45_Yd7HxqbLbmLFUFWXg8AJeujk0je1prPwmxDlCtpYD69MftR5YyWU9XDL_GQE_aweyxml5isaDQ?key=E5dHXVUTzknfca2XYtK_swaA)**
 
-### Задание 1 - Автоматизация проверки формата файлов при коммите
+## Задание 1 - Автоматизация проверки формата файлов при коммите
 
 1. Создала скрипт проверки:
 Создала файл с именем pre-commit в папке .git/hooks, сделала скрипт исполняемым
@@ -257,7 +257,7 @@ git push origin main
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQo8rDHD8WwVhhtC-66EQDDMdyaiHVB1AZMD7zfdlpRMCgA-I92JMvsm6T40SN21Z6ydclr3v8PrBGCj9QgUy_K7flfu5OEqwTEUB6csC_jJFDsG9s8y7Y-OosEm1DJESK1F_v_w?key=E5dHXVUTzknfca2XYtK_swaA)**
 
-### Задание 2 - Использование Git Flow в проекте
+## Задание 2 - Использование Git Flow в проекте
 
 1. В корне репозитория выполните инициализацию Git Flow.
 
