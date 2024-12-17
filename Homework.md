@@ -108,7 +108,8 @@
 
     `cat /var/logs/weather_report.log`
 
-    ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0b-TbcAHwF7R0ywTjY7zA2hnz8Q1WJT5NKFNSS2Sr__BKi4araFl7gkI_ekCMVQK2VtdoDdEkcutTrxeg-uEUQl-VHpM4Dj1RId_vmxlDsGbkqc-cFrPPerHV8nUtCz3K4qUWPw?key=5Osj0y9krXfMrlXtewssB73M)
+    ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqAGlzC4lN2Apvg9Ylu__qKSIN_ovxyK32gXrKEIFLTzvqVCvR6LGta11LpxyzZnqsnrr9V22jFp49pFooOUf8zx9PMTHv7SNY2hod2JupXiirMsF21PiOaxXBLI_suOtFUVUZ3Q?key=cBsw1W2irmEDMYjkzhntxmsO)
+
 
 ## Источники
 
