@@ -241,9 +241,11 @@ git push origin main
 
 1. Создала скрипт проверки:
 Создала файл с именем pre-commit в папке .git/hooks, сделала скрипт исполняемым
+
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe3BcKyBbu5GGayzaTDj2-bExIVQi3CODsuM8-Ss46vQkJxFsF9qWLAc0pGSEPGMhoYCJJvJYRqsAEj3i_y79o7kmA2lqqXtZPeM1JwZeBmnATKqObc54EESBgCY5oLPAA7oJWD?key=E5dHXVUTzknfca2XYtK_swaA)**
 
-2. Добавила следующий код в скрипт:
+3. Добавила следующий код в скрипт:
+   
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe2o9bINHeHBUOeURZod1su9hg7ag2LovifS1gy7W6sCxy8kTa7r081aG_tsB9_lS8BlhM7f-oItFy7lIfVeV1v-VLN8TjGEner56QMJPg2lJWT6YrvggUQH6SO7qmmno-1pZb5TA?key=E5dHXVUTzknfca2XYtK_swaA)**
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdrwWzy186Y1KvR1VY__AZ7DDtO5cYyg5DbjK7yO9MddNNvJKRSCumIv_7zc3zkvsV1bRZssuzDri4Xnz9B6ip35W09m5sN8IY6ly2jlt970n4VGWHLWia4zGxLj51IRYcIyOIhxw?key=E5dHXVUTzknfca2XYtK_swaA)**
