@@ -128,7 +128,7 @@
     
     Используем команду, чтобы фильтровать и экспортировать заказ с правильным форматом номера телефон
 
-    ` grep '^\+7-[0-9]{3}-[0-9]{3}-[0-9]{2}-[0-9]{2}' russian_orders.txt > valid_orders.txt `
+    ` grep -E '^\+7-[0-9]{3}-[0-9]{3}-[0-9]{2}-[0-9]{2}' russian_orders.txt > valid_orders.txt `
 
    ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdhQrJlaZtBURDk_Dl0J4ivMZ-LuNLWiB4a5CAkdtZ59y_GKaujaT8vCpEPpVLHISmhK0FpV4wC8DIjuhhig8bENryqSVUvLD5So3t-3QllLv4W_0pbpUUX4mpyDS4XGmwxOUPB?key=kidet-S8y_Gc6FaGghN_mTwZ)
 
